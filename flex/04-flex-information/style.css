@@ -28,6 +28,7 @@ img {
 .plants{
   display:flex;
   margin-top:2em;
+  justify-content:center;
 }
 .barberry, .chili, .pepper, .saffron{
   display:flex;
