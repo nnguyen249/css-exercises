@@ -37,6 +37,7 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  height:auto;
 }
 
 a {
@@ -54,4 +55,5 @@ ul {
 .container{
   display:flex;
   gap: 10px;
+  height:auto;
 }
