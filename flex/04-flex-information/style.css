@@ -29,6 +29,8 @@ img {
   display:flex;
   margin-top:2em;
   justify-content:center;
+  align-items:center;
+  gap:2em;
 }
 .barberry, .chili, .pepper, .saffron{
   display:flex;
