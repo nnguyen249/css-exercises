@@ -48,9 +48,10 @@ a {
 ul {
   list-style-type: none;
   display:flex;
-  justify-content: space-between;
+  gap: 10px;
 
 }
 .container{
   display:flex;
+  gap: 10px;
 }
